@@ -1,6 +1,9 @@
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * This class represents a box that contains three types of gems.
+ */
 public class GemBox {
 
     /**

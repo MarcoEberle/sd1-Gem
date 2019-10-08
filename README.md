@@ -1,6 +1,6 @@
 # Gem
 
-This is my solution to the assignment Train of class software developement 1, written in Java. 
+This is my solution to the assignment **Gem** of class **software developement 1**, written in Java. 
 
 More information can be seen in the comments of the source code. 
 
